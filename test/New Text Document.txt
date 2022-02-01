@@ -1,0 +1,7 @@
+"{
+    'mapping':'[{'frame': '0x11', 'deviceName':'Motoor'}, 
+        {'frame' : '0x15', 'deviceName' : 'Freine'}
+    ]
+
+}
+"
